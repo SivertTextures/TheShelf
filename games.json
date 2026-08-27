@@ -75,6 +75,6 @@
         "category": "Action",
         "icon": "🧑‍🔧",
         "type": "embed",
-        "embedCode": "<iframe src="https://downloads.webmulator.com/webretro-master/index.html?core=parallel_n64&rom=https://downloads.webmulator.com/roms/Super Mario 64 (USA).zip" allowfullscreen></iframe>"
+        "embedCode": "<iframe src=\"https://downloads.webmulator.com/webretro-master/index.html?core=parallel_n64&rom=https://downloads.webmulator.com/roms/Super Mario 64 (USA).zip\" allowfullscreen></iframe>"
   }
 ]
