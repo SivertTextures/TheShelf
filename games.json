@@ -72,6 +72,13 @@
   {
     "title": "NSMB",
     "category": "Action",
+    "icon": "🧑‍🔧",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F0434+-+New+Super+Mario+Bros.+%28U%29%28Psyfer%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/new-super-mario-bros-nintendo-ds-thumb.jpg&rom_slug=new-super-mario-bros\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Zelda",
+    "category": "Action",
     "icon": "⚔️",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F0434+-+New+Super+Mario+Bros.+%28U%29%28Psyfer%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/new-super-mario-bros-nintendo-ds-thumb.jpg&rom_slug=new-super-mario-bros\" allowfullscreen></iframe>"
