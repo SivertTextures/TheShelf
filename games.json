@@ -92,73 +92,1320 @@
         "embedCode": "<iframe src=\"https://downloads.webmulator.com/webretro-master/index.html?core=parallel_n64&rom=https://downloads.webmulator.com/roms/Super Mario 64 (USA).zip\" allowfullscreen></iframe>"
   },
   {
-    "title": "Arrow Dash: Physics-Based Archery Puzzle",
-    "category": "Puzzle",
-    "icon": "🧩",
+    "title": "1v1.LOL",
+    "category": "Multiplayer",
+    "icon": "👥",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/arrow-dash\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/1v1lol\" allowfullscreen></iframe>"
   },
   {
-    "title": "Bubble Word Jam: Puzzle Brain Training",
-    "category": "Puzzle",
-    "icon": "🧩",
+    "title": "2D Rocket League",
+    "category": "Other",
+    "icon": "🎮",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/bubble-word-jam\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/2drocketleague\" allowfullscreen></iframe>"
   },
   {
-    "title": "Car Battle: Driving Brawler and Vehicle Combat",
+    "title": "A Dance Of Fire And Ice",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/adanceoffireandice\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "A Small World Cup",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/asmallworldcup\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Achievement Unlocked",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/achievementunlocked\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Achievement Unlocked 2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/achievementunlocked2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Adventure Capitalist",
+    "category": "Adventure",
+    "icon": "🗺️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/adventurecapitalist\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Age Of War 2",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/ageofwar2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Apple Worm",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/appleworm\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Arcade Car Drift",
     "category": "Racing",
     "icon": "🏎️",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/car-battle\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/arcadecardrift\" allowfullscreen></iframe>"
   },
   {
-    "title": "DUO SummerBombs Two-Player Arcade",
-    "category": "Arcade",
-    "icon": "🕹️",
+    "title": "Archery World Tour",
+    "category": "Other",
+    "icon": "🎮",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/duo-summerbombs\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/archeryworldtour\" allowfullscreen></iframe>"
   },
   {
-    "title": "Geometry Dash Minecraft",
-    "category": "Platformer",
-    "icon": "🏃",
+    "title": "Astro Survivors",
+    "category": "Other",
+    "icon": "🎮",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/geometry-dash-minecraft\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/astrosurvivor\" allowfullscreen></iframe>"
   },
   {
-    "title": "Idol Livestream: Doll Dress Up",
+    "title": "Awesome Tanks 2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/awesometanks2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Backrooms",
+    "category": "Horror",
+    "icon": "👻",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/backrooms\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Bad Time Simulator",
     "category": "Casual",
     "icon": "🎨",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/idol-livestream-doll-dress-up\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/badtimesimulator\" allowfullscreen></iframe>"
   },
   {
-    "title": "Ludo Kingdom Strategy Board",
+    "title": "Baldis Basics",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/baldis\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Basket Random",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/basketrandom\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Basketball Stars",
+    "category": "Sports",
+    "icon": "⚽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/basketballstars\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Bee Swarm Simulator",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/beeswarmsimulator\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Big Tower Tiny Square",
     "category": "Strategy",
     "icon": "♟️",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/ludo-kingdom-online-3163-1\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/bigtowertinysquare2\" allowfullscreen></iframe>"
   },
   {
-    "title": "Name The States Quiz",
+    "title": "Bike Obby",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/bikeobby\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "BitLife",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/bitlife\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Block Blast",
     "category": "Puzzle",
     "icon": "🧩",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/name-the-states-quiz\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/blockblast\" allowfullscreen></iframe>"
   },
   {
-    "title": "Sort Out: Matching Puzzle",
+    "title": "Blumgi Bounce",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/blumgi-bouce\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Blumgi Paintball",
+    "category": "Casual",
+    "icon": "🎨",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/blumgipaintball\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Blumgi Slime",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/blumgislime\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Blumgi Splash",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/blumgisplash\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Bow Masters",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/bowmasters\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Boxing Random",
+    "category": "Sports",
+    "icon": "⚽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/boxingrandom\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Brain Test",
     "category": "Puzzle",
     "icon": "🧩",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/sort-out\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/braintest\" allowfullscreen></iframe>"
   },
   {
-    "title": "Tap Away Story: Tile Puzzle Adventure",
+    "title": "Cappybara clicker",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/capybaraclicker\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Cell Machine",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/cellmachine\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Chess",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/chess\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Choppy Orc",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/choppyorc\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "CircloO",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/circloo?v=2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Ckicker Heroes",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/clickerheroes\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Cluster Rush",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/clusterrush\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Cookie Clicker",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/cookieclicker\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Core Ball",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/coreball\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Crossyroad",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/crossyroadnormal\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "CSGO CLicker",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/csgoclicker\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Cubefeild",
     "category": "Puzzle",
     "icon": "🧩",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://playgama.com/game/tap-away-story\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/cubefield\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Cut The Rope",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/cuttherope\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Dante",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/dante\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Deadly Decent",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/deadlydecent\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Deal Or No Deal",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/dealornodeal\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Digging Master",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/diggingmaster\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Dogeminer",
+    "category": "Adventure",
+    "icon": "🗺️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/dogeminer\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Dogeminer 2",
+    "category": "Adventure",
+    "icon": "🗺️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/dogeminer2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Doodle Jump",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/doodlejump\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Dreadhead Parkour",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/dreadheadparkour\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Drift Boss",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/driftboss\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Drive Mad",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/drivemad?v=2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Ducklings io",
+    "category": "Multiplayer",
+    "icon": "👥",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/ducklingsio\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "DUNE!",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/dune\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Eggy Car",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/eggycar\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Escape Road 3",
+    "category": "Adventure",
+    "icon": "🗺️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/escaperoad3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Fear Response",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fearresponse\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Fireboy And Water Girl Forest Temple",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fireboyandwatergirl1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "FNAF",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fnaf1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "FNAF3",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fnaf3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "FNAF4",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fnaf4\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "FNAF5 Sister Location",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fnaf5\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Fruit Merge",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fruitmerge\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Frying Nemo",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fryingnemo\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Full Speed Racing",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/fullspeedracing\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Funnyshooter 2",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/funnyshooter2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Geometry Dash Subzero",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/geometrydashsubzero\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Getaway Shootout",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/getawayshootout\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Gladihoppers",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/gladihoppers\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Going Balls",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/goingballs\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Golf Orbit",
+    "category": "Sports",
+    "icon": "⚽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/golforbit\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Google Feud",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/googlefeud\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Granny",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/granny\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Grindcraft",
+    "category": "Adventure",
+    "icon": "🗺️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/grindcraft\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Gunblood",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/gunblood\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Gunspin",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/gunspin\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Happy Glass",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/happyglass\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Happy Wheels",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/happyw\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Harvest Simulator",
+    "category": "Casual",
+    "icon": "🎨",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/harvestsimulator\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Henry Stickmin",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/henrybreakingthebank\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Henry Stickmin",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/henrystealingthediamond\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Henry Stickmin",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/henryinfiltratingtheairship\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Hexgl",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/hexgl\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Horde Killer You VS 100",
+    "category": "Multiplayer",
+    "icon": "👥",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/hordekilleryouvs100\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Idle Ants",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/idleants\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Idle Breakout",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/idle-breakout\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Idle Dices",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/idledice\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Idle Revolution",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/revolutionidle\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Impossible Quiz",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/theimpossiblequiz\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Iron Snout",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/ironsnout\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Jump Only",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/jumponly\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Jumping Shell",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/jumpingshell\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Justfall.LOL",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/justfalllol\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Kick The Buddy",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/kickthebuddy\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Kiwi Clicker",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/kiwiclicker\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Knife Hit",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/knifehit\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Learn To Fly",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/learntofly\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Learn To Fly 2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/learntofly2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Learn To Fly 3",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/learntofly3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Longcat",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/longcat\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mad Skills MotoCross 2",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/madskillsmotocross2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Madalin Cars 3",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/madalincars3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mine Line",
+    "category": "Adventure",
+    "icon": "🗺️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/mineline\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Monkey Mart",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/monkeymart\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Monster Match",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/monstermatch\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Monster Tracks",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/monstertracks\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Moto X3M",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/motox3m\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Moto X3M 3",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/motox3m3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Moto X3M Pool Party",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/motox3mpool\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Moto X3M Winter",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/motox3mwinter\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mr Racer",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/mrracer\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Murder",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/murder\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "My Perfect Hotel",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/myperfecthotel\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Neon Swing",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/neonswing\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "OvO",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/0v0\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "OvO Dimensions",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/ovodimensions\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Papas Freezeria",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/papas-play/freezeria\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Paper Plane",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/paperplane\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Paper.IO 2",
+    "category": "Multiplayer",
+    "icon": "👥",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/paperio2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Path To Glory",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/pathtoglory\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Penalty Shooters 2",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/penaltyshooters2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Police Chase",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/policechase\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Polytrack",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/polytrack\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Poor Eddie",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/pooreddie\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Raft Wars",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/raftwars\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Red VS Bluez",
+    "category": "Multiplayer",
+    "icon": "👥",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/redvsbluez\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Redball 4",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/redball4\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Retro Bowl College",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/retrobowlcollege\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Rider Jumps",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/freeriderjumps\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Rise Higher",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/risehigher\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Rocket Soccer Derby",
+    "category": "Sports",
+    "icon": "⚽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/rocketsoccerderby\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Rooftop Snipers",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/rooftopsnipers\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Roper",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/roper\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Sausage Flip",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/sausageflip\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Sketchbook",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/sketchbook\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Sky Riders",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/skyriders\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Slime Dunk!",
+    "category": "Sports",
+    "icon": "⚽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/slimedunk\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Slime Journey",
+    "category": "Adventure",
+    "icon": "🗺️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/slimejourney\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Slope",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/slope\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Slowroads",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/slowroads\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Snake Pivot",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/snakepivot\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Soccer Random",
+    "category": "Sports",
+    "icon": "⚽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/soccerrandom\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Soccer REAL",
+    "category": "Sports",
+    "icon": "⚽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/soccerreal\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Space Waves",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/spacewaves\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Speed Stars",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/speedstars\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Spiral Roll",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/spiralroll\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Stack",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/stack\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Stack Bounce",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/stackbounce\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Steal A Brainrot",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/stealabrainrot\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Steel Hills",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/steelhills\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Stickman Climb 2",
+    "category": "Action",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/stickmanclimb2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Stickman Climb 3D",
+    "category": "Action",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/stickmanclimb3d\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Stickman Hook",
+    "category": "Action",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/stickmanhook\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "StickMerge",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/stickmerge\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Stunt Bike Extreme",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/stuntbikeextreme\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Subway Surfers",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/subwaysurfers\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Super Fowlst",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/superfowlst\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Super Hot",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/superhot\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Super Liquid Soccer",
+    "category": "Sports",
+    "icon": "⚽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/superliquidsoccer\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Swingo",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/swingo\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "TABS",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/tabs\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tag",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/tag\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tanuki Sunset",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/tanukisunset\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Temple Of Boom",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/templeofboom\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Temple Run 2",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/templerun2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "The Baby In Yellow",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/thebabyinyellow\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "The Final Earth",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/thefinalearth\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "There Is No",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/thereisnog\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tiny Towers",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/tinytowers\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tomb Of The Mask",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/tombofthemask\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Townscaper",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/townscaper\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tube Jumpers",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/tubejumpers\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tunnel Rush 2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/tunnelrush2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Turbo Moto Racer",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/turbomotoracer\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Unicycle Heros",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/unicyclehero\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex 3",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/vex3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex 3M",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/vex3m\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex 5",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/vex5\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex 6",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/vex6\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex 7",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/vex7\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex Challenges",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/vexchallenges\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Webgl Fluid",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/webglfluid\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Whack Your Boss",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/whackyourboss\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Wordle",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/wordle\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Worlds Hardest",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/worldshardestgame\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "xx142-b2.exe",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/xx142-b2exe\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Zombie Derby",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://pizzaedition.com/embed/zombiederbypixelsurvival\" allowfullscreen></iframe>"
   }
 ]
+
