@@ -90,5 +90,75 @@
         "icon": "🧑‍🔧",
         "type": "embed",
         "embedCode": "<iframe src=\"https://downloads.webmulator.com/webretro-master/index.html?core=parallel_n64&rom=https://downloads.webmulator.com/roms/Super Mario 64 (USA).zip\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Arrow Dash: Physics-Based Archery Puzzle",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/arrow-dash\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Bubble Word Jam: Puzzle Brain Training",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/bubble-word-jam\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Car Battle: Driving Brawler and Vehicle Combat",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/car-battle\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "DUO SummerBombs Two-Player Arcade",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/duo-summerbombs\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Geometry Dash Minecraft",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/geometry-dash-minecraft\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Idol Livestream: Doll Dress Up",
+    "category": "Casual",
+    "icon": "🎨",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/idol-livestream-doll-dress-up\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Ludo Kingdom Strategy Board",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/ludo-kingdom-online-3163-1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Name The States Quiz",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/name-the-states-quiz\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Sort Out: Matching Puzzle",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/sort-out\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tap Away Story: Tile Puzzle Adventure",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://playgama.com/game/tap-away-story\" allowfullscreen></iframe>"
   }
 ]
