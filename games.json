@@ -1610,6 +1610,792 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://unblockedgames66.gitlab.io/game/worlds-hardest-game-2.html\" allowfullscreen></iframe>"
+  },
+  
+  {
+    "title": "10x10 Gems Deluxe Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=10x10-gems-deluxe-2cfc0\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "15 Puzzle 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/15-puzzle\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "2 Player casual players Kitchen Cooking 🍳",
+    "category": "Multiplayer",
+    "icon": "👥",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/cooking-games?game=2-player-games-casual-players-kitchen-b7ff5\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "2048 Multiplayer",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/2048-multiplayer\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "7X Team",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://github.com/7x-games\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "7x Word Guess 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/7x-word-guess\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Again",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/pattern-memory\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Anagram",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/anagram\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Arkadium's Ballistic Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=arkadium-s-ballistic-49d3d\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Arrow Escape Arcade Arena 🕹️",
+    "category": "Adventure",
+    "icon": "🗺️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=arrow-escape-abda3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Biscuit Clicker 🎮",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/biscuit-clicker\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Brick Breaker",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/brick-breaker\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Burger Cafe Cooking For casual players Cooking 🍳",
+    "category": "Casual",
+    "icon": "🎨",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/cooking-games?game=burger-cafe-cooking-games-for-casual-players-53e7a\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Car Dodge",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/car-dodge\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Car Racing",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/car-racing\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "casual players Memory Wild Animals Training 🎓",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/training-games?game=casual players-memory-wild-animals\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "casual players True Color Training 🎓",
+    "category": "Casual",
+    "icon": "🎨",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/training-games?game=casual players-true-color\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Checkers",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/checkers\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Chess",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/chess\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "classic Tic Tac Toe",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/tic-tac-toe\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Click Speed",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/click-speed\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Code Breaker 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/code-breaker\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Color Match 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/color-match\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Color Memory Sequence 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/color-memory-sequence\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Commando Force 2 Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=commando-force-2-7d057\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Crossword Mini",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/crossword-mini\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Dot to Dot Shapes casual players training Training 🎓",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/training-games?game=dot-to-dot-shapes-casual players-training\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Dots and Boxes 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/dots-and-boxes\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Double Click Speed Test 🎮",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/double-click-test\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Drag Click Test 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/drag-click-test\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Fashion Princess Dress Up for Girls Arcade Arena 🕹️",
+    "category": "Casual",
+    "icon": "🎨",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=fashion-princess-dress-up-for-girls-b4add\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Flip Bottle Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=flip-bottle-95c49\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Fruit Merge 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/fruit-merge\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Game",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/io-games\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Geometry Vibes 3D Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=geometry-vibes-3d-c0c42\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Hangman",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/hangman\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Hidden Objects Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=hidden-objects-87bdc\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Idle Miner 🎮",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/idle-miner\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Impostor Hook IO Arena ⚔️",
+    "category": "Multiplayer",
+    "icon": "👥",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/io-games?game=impostor-hook-213\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "IO",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Jumping Alien",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/jumping-alien\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Letter Soup 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/letter-soup\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Love Tester 3 Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=love-tester-3-58bed\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Ludo",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/ludo\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mancala 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/mancala\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Math Gate Runner 🎮",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/math-gate-runner\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Math Quiz Blitz 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/math-quiz-blitz\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mathematic For casual players Training 🎓",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/training-games?game=mathematic-game-for-casual players\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Memory Card Pro",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/memory-card-pro\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "memory match",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/memory-match\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Minesweeper",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/minesweeper\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Moto X3M 4 Winter Arcade Arena 🕹️",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=moto-x3m-4-winter-bcacf\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Moto X3M Pool Party Arcade Arena 🕹️",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=moto-x3m-pool-party-f804d\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Multiplayer Tanks IO Arena ⚔️",
+    "category": "Multiplayer",
+    "icon": "👥",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/io-games?game=multiplayer-tanks-334\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Neon 2048",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/2048\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Neon Block Puzzle 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/neon-block-puzzle\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Neon Flap",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/neon-flap\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Neon Hunt 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/neon-hunt\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Neon Mole Masher 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/mole-masher\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Number Drop 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/number-drop\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Number Guess",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/number-guess\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Obby Highest Jump Ever Arcade Arena 🕹️",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=obby-highest-jump-ever-eece7\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pizza maker cooking and baking for casual players Cooking 🍳",
+    "category": "Casual",
+    "icon": "🎨",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/cooking-games?game=pizza-maker-cooking-and-baking-games-for-casual-players-b37ae\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Playground Parkour IO Arena ⚔️",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/io-games?game=playground-parkour-92\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "reaction time test",
+    "category": "Action",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/reaction-time\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Real Tractor Farmer Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=real-tractor-farmer-96ed5\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Retro Paddle",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/retro-paddle\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Reversi",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/reversi\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Rock Paper Scissors vs Computer",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/rock-paper-scissors\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Sky Train Simulator : Elevated Train Driving Arcade Arena 🕹️",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=sky-train-simulator-elevated-train-driving-game-603c0\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Slice it All Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=slice-it-all-efa94\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Slope",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/slope-runner\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Snake",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/snake\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Snakes & Ladders",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/snakes-ladders\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Solitaire 🎮",
+    "category": "Card",
+    "icon": "🃏",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/solitaire\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Sorting Balls Arcade Arena 🕹️",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=sorting-balls-aa428\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Space Defender 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/space-defender\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Speed Math 🎮",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/speed-math\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Spiral Drop",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/spiral-drop\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Stack",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/stack-game\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Super casual player Perfect Jump Training 🎓",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/training-games?game=super-casual player-perfect-jump\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tap The Circle 🎮",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/tap-the-circle\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tiles Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=tiles-9252f\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Traffic Tap Puzzle Arcade Arena 🕹️",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=traffic-tap-puzzle-7837d\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Truck Driver Cargo Arcade Arena 🕹️",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=truck-driver-cargo-game-47555\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Typing Racer 🎮",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/typing-racer\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Typing Test",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/typing-test\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex 9 Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=vex-9-8d034\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex X3M 2 Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=vex-x3m-2-faf4c\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Vex X3M Arcade Arena 🕹️",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/arcade-games?game=vex-x3m-0a3c5\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Word Chain 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/word-chain\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Word Grid 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/word-grid\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Word Search 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/word-search\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Four in a Row 🎮 board multiplayer",
+    "category": "Multiplayer",
+    "icon": "👥",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/four-in-a-row\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Fraction Math ➔",
+    "category": "Action",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/fraction-math\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Math Bingo ➔",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/math-bingo\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Money Math ➔",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/money-math\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Neon Runner 🎮 arcade reflex",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/dino-runner\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Number Bonds ➔",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/number-bonds\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Roman Numerals ➔",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/roman-numerals\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Times Table ➔",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/times-table\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "▶ Word Bloom ➔",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/word-bloom\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "♟️ Strategy 6 min read Chess Openings & Strategy Tips for Beginners Learn the best beginner chess openings, how to control the center of the board, and strategies to improve your chess rating. Read → 🎮",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/chess-strategy-tips\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "✏️ ⭐ Featured Strategy 6 min read Dots and Boxes Strategy Guide",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/dots-and-boxes-strategy\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "🌀 Arcade 5 min read Spiral Drop",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/spiral-drop\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "🎓 brain 5 min read Best brain 2026",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/brain-games-online-free\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "🎮 Neon Sudoku 🎮",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/games/sudoku\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "🏓 Arcade 6 min read How to Retro Paddle",
+    "category": "Arcade",
+    "icon": "🕹️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/retro-paddle\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "🏗️ Arcade 5 min read Stack Tower",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/stack-game\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "🔓 5 min read 7x",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/unblocked-games-for-logic\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "🔴 Strategy 7 min read Four in a Row Strategy Guide",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/four-in-a-row\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "🟥 Memory 6 min read Color Memory Sequence",
+    "category": "Puzzle",
+    "icon": "🧩",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://7x.games/blog/color-memory-sequence\" allowfullscreen></iframe>"
   }
+
 ]
 
