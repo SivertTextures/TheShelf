@@ -7204,7 +7204,7 @@
     "category": "Media",
     "icon": "🎮",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://player.videasy.to/tv/71728/1/1?nextEpisode=true&autoplayNextEpisode=true&episodeSelector=false&overlay=true&color=FF7575" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://player.videasy.to/tv/71728/1/1?nextEpisode=true&autoplayNextEpisode=true&episodeSelector=false&overlay=true&color=FF7575\" allowfullscreen></iframe>"
   }
 
 ]
