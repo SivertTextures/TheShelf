@@ -6746,12 +6746,5 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=msx&rom_url=%2Froms%2FZanac+%28Japan%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/zanac-thumb.jpg&rom_slug=zanac\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Young Sheldon",
-    "category": "Media",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://player.videasy.to/tv/71728/1/1?nextEpisode=true&autoplayNextEpisode=true&episodeSelector=false&overlay=true&color=FF7575\" allowfullscreen></iframe>"
   }
 ]
