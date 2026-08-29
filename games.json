@@ -31911,5 +31911,12 @@
     "icon": "🔫",
     "type": "embed",
     "embedCode": "<iframe src=\"https://freegames.io/splash/shell-shockers\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Krunker",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://w8.snokido.com/embed/krunkerio\" allowfullscreen></iframe>"
   }
 ]
