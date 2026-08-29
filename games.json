@@ -1831,7 +1831,7 @@
     "category": "Adventure",
     "icon": "🗺️",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://iframe.eaglercraft.org/shell.html\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://eaglercraft.ir/play/1.8.8?touch=false&userscript=\" allowfullscreen></iframe>"
   },
   {
     "title": "Escape Road 2",
