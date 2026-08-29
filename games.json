@@ -16506,13 +16506,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=gameboy-color&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Link%27s+Awakening+%28V1.2%29+%28U%29+%5B%21%5D.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-links-awakening-V1.jpg&rom_slug=legend-of-zelda-the-links-awakening-v1-2\" allowfullscreen></iframe>"
   },
   {
-    "title": "Legend Of Zelda, The Link's Awakening DX (F) Legend Of Zelda, The Link's Awakening DX (F)",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=gameboy-color&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Link%27s+Awakening+DX+%28F%29+%5BC%5D%5B%21%5D.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-link's-awakening-dx-V1.jpg&rom_slug=legend-of-zelda-the-links-awakening-dx-f\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Legend of Zelda, The Majora's Mask Full Screen Emulation",
     "category": "Other",
     "icon": "🎮",
@@ -31918,5 +31911,12 @@
     "icon": "🔫",
     "type": "embed",
     "embedCode": "<iframe src=\"https://w8.snokido.com/embed/krunkerio\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Young Sheldon",
+    "category": "Media",
+    "icon": "🤓",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://multiembed.mov/?tmdb=1&video_id=71728&s=1&e=1\" allowfullscreen></iframe>"
   }
 ]
