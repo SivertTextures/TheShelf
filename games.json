@@ -1831,7 +1831,7 @@
     "category": "Adventure",
     "icon": "🗺️",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/eaglercraft\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://iframe.eaglercraft.org/shell.html\" allowfullscreen></iframe>"
   },
   {
     "title": "Escape Road 2",
