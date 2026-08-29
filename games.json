@@ -31904,5 +31904,12 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo&rom_url=%2Froms%2FZZZ_UNK_ZeldEdit+%28139407%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/zzz-unk-zeldedit-139407.jpg&rom_slug=zzz-unk-zeldedit-139407\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Shell Shockers",
+    "category": "Shooter",
+    "icon": "🔫",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://freegames.io/splash/shell-shockers\" allowfullscreen></iframe>"
   }
 ]
