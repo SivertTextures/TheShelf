@@ -1532,7 +1532,7 @@
     "type": "embed",
     "embedCode": "<iframe src=\"https://unblockedgames66.gitlab.io/game/worlds-hardest-game-2.html\" allowfullscreen></iframe>"
   },
-    {
+  {
     "title": "2 Player",
     "category": "Multiplayer",
     "icon": "👥",
@@ -1554,13 +1554,6 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/3d-car-simulator\" allowfullscreen></iframe>"
   },
   {
-    "title": "Among Us",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/among-us-online\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Arcade",
     "category": "Arcade",
     "icon": "🕹️",
@@ -1573,27 +1566,6 @@
     "icon": "👥",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/armedforces-io\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Baldis Basics",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/baldis-basics\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Basket Random",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/basket-random\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Basketball Stars",
-    "category": "Sports",
-    "icon": "⚽",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/basketball-stars\" allowfullscreen></iframe>"
   },
   {
     "title": "Big Shot Boxing",
@@ -1645,25 +1617,11 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/blumgi-merge\" allowfullscreen></iframe>"
   },
   {
-    "title": "Blumgi Paintball",
-    "category": "Casual",
-    "icon": "🎨",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/blumgi-paintball\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Blumgi Racers",
     "category": "Racing",
     "icon": "🏎️",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/blumgi-racers\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Blumgi Slime",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/blumgi-slime\" allowfullscreen></iframe>"
   },
   {
     "title": "Brainrot Craft",
@@ -1715,13 +1673,6 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/combat-online\" allowfullscreen></iframe>"
   },
   {
-    "title": "Cookie Clicker",
-    "category": "Strategy",
-    "icon": "♟️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/cookie-clicker\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Cookin Truck",
     "category": "Racing",
     "icon": "🏎️",
@@ -1743,25 +1694,11 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/crazy-bikes\" allowfullscreen></iframe>"
   },
   {
-    "title": "Crazy Cars",
-    "category": "Racing",
-    "icon": "🏎️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/crazy-cars\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Crazy Cattle 3D",
     "category": "Other",
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/crazy-cattle-3d\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Crossy Road",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/crossy-road\" allowfullscreen></iframe>"
   },
   {
     "title": "Crunchball 3000",
@@ -1804,13 +1741,6 @@
     "icon": "🎨",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/draw-climber\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Drive Mad",
-    "category": "Racing",
-    "icon": "🏎️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/drive-mad\" allowfullscreen></iframe>"
   },
   {
     "title": "Drop Wizard Tower",
@@ -1876,13 +1806,6 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/flying-car-simulator\" allowfullscreen></iframe>"
   },
   {
-    "title": "FNaF",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/fnaf\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Game",
     "category": "Other",
     "icon": "🎮",
@@ -1895,13 +1818,6 @@
     "icon": "🏃",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/geometry-dash-world\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Gladihoppers",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/gladihoppers\" allowfullscreen></iframe>"
   },
   {
     "title": "Gravity Soccer",
@@ -2014,20 +1930,6 @@
     "icon": "🧩",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/merge-rot\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Monkey Mart",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/monkey-mart\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Moto X3M",
-    "category": "Racing",
-    "icon": "🏎️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/moto-x3m\" allowfullscreen></iframe>"
   },
   {
     "title": "Mr Racer Car Racing",
@@ -2156,39 +2058,11 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/rescue-the-fish\" allowfullscreen></iframe>"
   },
   {
-    "title": "Retro Bowl",
-    "category": "Arcade",
-    "icon": "🕹️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/retro-bowl\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Retro Bowl College",
-    "category": "Arcade",
-    "icon": "🕹️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/retro-bowl-college\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Rocket Soccer Derby",
-    "category": "Sports",
-    "icon": "⚽",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/rocket-soccer-derby\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Rustyard",
     "category": "Other",
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/rustyard\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Sausage Flip",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/sausage-flip\" allowfullscreen></iframe>"
   },
   {
     "title": "Shady Bears",
@@ -2247,13 +2121,6 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/sling-drift\" allowfullscreen></iframe>"
   },
   {
-    "title": "Slope",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/slope-game\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Slope Bike 2",
     "category": "Racing",
     "icon": "🏎️",
@@ -2266,13 +2133,6 @@
     "icon": "🏎️",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/smash-car-idle-2\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Soccer Random",
-    "category": "Sports",
-    "icon": "⚽",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/soccer-random\" allowfullscreen></iframe>"
   },
   {
     "title": "SoulSpark",
@@ -2338,13 +2198,6 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/stickman-dragon-fight\" allowfullscreen></iframe>"
   },
   {
-    "title": "Stickman Hook",
-    "category": "Action",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/stickman-hook\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Stickman Kingdom Clash",
     "category": "Strategy",
     "icon": "♟️",
@@ -2366,25 +2219,11 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/streetfight-king-of-the-gang\" allowfullscreen></iframe>"
   },
   {
-    "title": "Stunt Bike Extreme",
-    "category": "Racing",
-    "icon": "🏎️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/stunt-bike-extreme\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Sudoblocks",
     "category": "Puzzle",
     "icon": "🧩",
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/sudoblocks\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Super Liquid Soccer",
-    "category": "Sports",
-    "icon": "⚽",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/super-liquid-soccer\" allowfullscreen></iframe>"
   },
   {
     "title": "Super Tunnel Rush",
@@ -2457,20 +2296,6 @@
     "embedCode": "<iframe src=\"https://classroom7x.io/game/tiny-fishing\" allowfullscreen></iframe>"
   },
   {
-    "title": "Tiny Towers",
-    "category": "Strategy",
-    "icon": "♟️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/tiny-towers\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Tomb of the Mask",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://classroom7x.io/game/tomb-of-the-mask\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Touchdowners",
     "category": "Other",
     "icon": "🎮",
@@ -2540,316 +2365,306 @@
     "type": "embed",
     "embedCode": "<iframe src=\"https://classroom7x.io/game/yohoho-io\" allowfullscreen></iframe>"
   },
-    
-    {
-      "title": "007 GoldenEye 007 GoldenEye",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2F007+-+GoldenEye+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/007-goldeneye-thumb.jpg&rom_slug=007-goldeneye\" allowfullscreen></iframe>"
-    },
-
-    {
-      "title": "CPS 3 6 12317",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://www.webmulator.com/games/capcom-play-system-3\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Disney's Donald Duck Goin' Quackers Disney's Donald Duck Goin' Quackers",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2Fdisneysdonaldduckgoinquackers.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/disney's-donald-duck-goin'-quackers-thumb.jpg&rom_slug=disneys-donald-duck-goin-quackers\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Dizzy Wizard (1987)(Tommy)[cr Cobra][b][a] Dizzy Wizard (1987)(Tommy)[cr Cobra][b][a]",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=sega-32x&rom_url=%2Froms%2FDizzy+Wizard+%281987%29%28Tommy%29%5Bcr+Cobra%5D%5Bb%5D%5Ba%5D.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/dizzy-wizard-1987-tommy-cr-cobra-b-a-thumb.jpg&rom_slug=dizzy-wizard-1987-tommy-cr-cobra-b-a\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "House of the Dead House of the Dead",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fhotd.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/house-of-the-dead-thumb-MAME.jpg&rom_slug=house-of-the-dead\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Legend of Zelda, The Majora's Mask (Europe) Legend of Zelda, The Majora's Mask (Europe)",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Majora%27s+Mask+%28Europe%29+%28En%2CFr%2CDe%2CEs%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-majora-s-mask-europe-thumb.jpg&rom_slug=legend-of-zelda-the-majoras-mask-europe\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Mario Kart 64 Mario Kart 64",
-      "category": "Racing",
-      "icon": "🏎️",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Kart+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-64-thumb.jpg&rom_slug=mario-kart-64\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Mario Kart DS (EU) Mario Kart DS (EU)",
-      "category": "Racing",
-      "icon": "🏎️",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0201+-+Mario+Kart+DS+%28E%29%28Spliff%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-ds-eu-nds.jpg&rom_slug=mario-kart-ds-eu\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Mario Party 2 Mario Party 2",
-      "category": "Platformer",
-      "icon": "🏃",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Party+2+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-party-2-thumb.jpg&rom_slug=mario-party-2\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Mario Party Mario Party",
-      "category": "Platformer",
-      "icon": "🏃",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Party+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-party-n64-thumb.jpg&rom_slug=mario-party\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Marvel VS Capcom 2 Marvel VS Capcom 2",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fmvsc2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mame-marvel-vs-capcom-2-thumb.jpg&rom_slug=marvel-vs-capcom-2-new-age-of-heroes\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Metroid Metroid",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://www.webmulator.com/games/gameboy-advance/metroid-fusion-flashadvance\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Need for Speed: Most Wanted Need for Speed: Most Wanted",
-      "category": "Racing",
-      "icon": "🏎️",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0175+-+Need+for+Speed+-+Most+Wanted+%28U%29%28Mode+7%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/nds-need-for-speed-most-wanted-thumb.jpg&rom_slug=need-for-speed-most-wanted\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "New Super Mario Bros. New Super Mario Bros.",
-      "category": "Platformer",
-      "icon": "🏃",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0434+-+New+Super+Mario+Bros.+%28U%29%28Psyfer%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/new-super-mario-bros-nintendo-ds-thumb.jpg&rom_slug=new-super-mario-bros\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Paper Mario Paper Mario",
-      "category": "Platformer",
-      "icon": "🏃",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FPaper+Mario+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/paper-mario-thumb.jpg&rom_slug=paper-mario\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Pokemon Black Version 2 Pokemon Black Version 2",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F6149+-+Pokemon+Black+Version+2+%28DSi+Enhanced%29%28U%29%28frieNDS%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-black-version-2-thumb.jpg&rom_slug=pokemon-black-version-2\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Pokemon Black Version Pokemon Black Version",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F5585+-+Pokemon+-+Black+Version+%28DSi+Enhanced%29%28USA%29+%28E%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-black-version-thumb.jpg&rom_slug=pokemon-black-version\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Pokemon HeartGold Pokemon HeartGold",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4787+-+Pokemon+-+HeartGold+Version+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-heart-gold-version-thumb.jpg&rom_slug=pokemon-heartgold\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Pokemon Platinum Pokemon Platinum",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F3541+-+Pokemon+Platinum+Version+%28US%29%28XenoPhobia%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-platinum-version-thumb.jpg&rom_slug=pokemon-platinum\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Pokemon Renegade Platinum Pokemon Renegade Platinum",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2Fv1.3.0_RenegadePlatinum.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-renegade-platinum-nds-thumb.jpg&rom_slug=pokemon-renegade-platinum\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Pokemon SoulSilver Version Pokemon SoulSilver Version",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4788+-+Pokemon+-+SoulSilver+Version+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/nintendo-ds-pokemon-soulsilver-thumb.jpg&rom_slug=pokemon-soulsilver-version\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Pokemon White Version Pokemon White Version",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F5584+-+Pokemon+-+White+Version+%28DSi+Enhanced%29%28USA%29+%28E%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-white-version-thumb.jpg&rom_slug=pokemon-white-version\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Pokémon Infinite Fusion Pokémon Infinite Fusion",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=gameboy-advance&rom_url=%2Froms%2FInfiniteFusion.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-infinite-fusion-thumb-gba.jpg&rom_slug=pok-mon-infinite-fusion\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Project Intercalaris Disk1 Project Intercalaris Disk1",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FProject+Intercalaris_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/project-intercalaris-disk1-thumb.jpg&rom_slug=project-intercalaris-disk1\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Resident Evil 2 Resident Evil 2",
-      "category": "Horror",
-      "icon": "👻",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FResident+Evil+2+%28USA%29+%28Rev+A%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/resident-evil-2-thumb.jpg&rom_slug=resident-evil-2\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Rurou ni Kenshin Meiji Kenkaku Romantan Ishin Gekitou Hen (Japan) Rurou ni Kenshin Meiji Kenkaku Romantan Ishin Gekitou Hen (Japan)",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=playstation-1&rom_url=%2Froms%2FRurou%2520ni%2520Kenshin%2520-%2520Meiji%2520Kenkaku%2520Romantan%2520-%2520Ishin%2520Gekitou%2520Hen%2520%2528Japan%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/Rurou-ni-Kenshin-Meiji-Kenkaku-Romantan-Ishin-Gekitou-Hen-Japan-thumb.jpg&rom_slug=rurou-ni-kenshin-meiji-kenkaku-romantan-ishin-gekitou-hen-japan\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Sen Disk3 Sen Disk3",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSen_Disk3.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/sen-disk3-thumb.jpg&rom_slug=sen-disk3\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Sonic R (U) Sonic R (U)",
-      "category": "Platformer",
-      "icon": "🏃",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=sega-saturn&rom_url=%2Froms%2FSonic%2520R%2520%2528U%2529%2528Saturn%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/sonic-r-sega-saturn-thumb.jpg&rom_slug=sonic-r-u\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Stellar 7 Disk1 Stellar 7 Disk1",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FStellar+7_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/stellar-7-disk1-thumb.jpg&rom_slug=stellar-7-disk1\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Super Mario 64 Super Mario 64",
-      "category": "Platformer",
-      "icon": "🏃",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Mario+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-64-thumb.jpg&rom_slug=super-mario-64\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Super Smash Bros. Super Smash Bros.",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Smash+Bros.+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/Super-Smash-Bros-64-thumb.jpg&rom_slug=super-smash-bros\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Svetak Bob Disk1 Svetak Bob Disk1",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSvetak+Bob_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/svetak-bob-disk1-thumb.jpg&rom_slug=svetak-bob-disk1\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Svetak Bob Disk2 Svetak Bob Disk2",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSvetak+Bob_Disk2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/svetak-bob-disk2-thumb.jpg&rom_slug=svetak-bob-disk2\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Tajemnica Bursztynowej Komnaty Disk1 Tajemnica Bursztynowej Komnaty Disk1",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FTajemnica+Bursztynowej+Komnaty_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tajemnica-bursztynowej-komnaty-disk1-thumb.jpg&rom_slug=tajemnica-bursztynowej-komnaty-disk1\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Tekken 4 (TEF2 Ver. A) Tekken 4 (TEF2 Ver. A)",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Ftekken4a.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tekken-4-TEF2-Ver-A-thumb.jpg&rom_slug=tekken-4-tef2-ver-a\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time The Legend of Zelda: Ocarina of Time",
-      "category": "Racing",
-      "icon": "🏎️",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Ocarina+of+Time+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-ocarina-of-time-thumb.jpg&rom_slug=the-legend-of-zelda-ocarina-of-time\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Tower Of Souls (AGA) Disk1 Tower Of Souls (AGA) Disk1",
-      "category": "Strategy",
-      "icon": "♟️",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FTower+of+Souls+%28AGA%29_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tower-of-souls-aga-disk1-thumb.jpg&rom_slug=tower-of-souls-aga-disk1\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Virtua Cop 2 Virtua Cop 2",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fvcop2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/virtua-cop-2-thumb-MAME.jpg&rom_slug=virtua-cop-2\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "WCW NWO Revenge WCW NWO Revenge",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FWCW-nWo+Revenge+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wcw-nwo-revenge-thumb.jpg&rom_slug=wcw-nwo-revenge\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Wolfen Die Bestie Ist Unter Uns Disk1 Wolfen Die Bestie Ist Unter Uns Disk1",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk1-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk1\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Wolfen Die Bestie Ist Unter Uns Disk2 Wolfen Die Bestie Ist Unter Uns Disk2",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk2-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk2\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "Wolfen Die Bestie Ist Unter Uns Disk3 Wolfen Die Bestie Ist Unter Uns Disk3",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk3.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk3-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk3\" allowfullscreen></iframe>"
-    },
-    {
-      "title": "WWE SmackDown vs. Raw 2010 WWE SmackDown vs. Raw 2010",
-      "category": "Other",
-      "icon": "🎮",
-      "type": "embed",
-      "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4726+-+WWE+SmackDown+vs+Raw+2010+featuring+ECW+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/www-smackdown-vs-raw-featuring-ecw-thumb.jpg&rom_slug=wwe-smackdown-vs-raw-2010\" allowfullscreen></iframe>"
-    },
-  
   {
     "title": "007 GoldenEye 007 GoldenEye",
     "category": "Other",
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2F007+-+GoldenEye+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/007-goldeneye-thumb.jpg&rom_slug=007-goldeneye\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "CPS 3 6 12317",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://www.webmulator.com/games/capcom-play-system-3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Disney's Donald Duck Goin' Quackers Disney's Donald Duck Goin' Quackers",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2Fdisneysdonaldduckgoinquackers.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/disney's-donald-duck-goin'-quackers-thumb.jpg&rom_slug=disneys-donald-duck-goin-quackers\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Dizzy Wizard (1987)(Tommy)[cr Cobra][b][a] Dizzy Wizard (1987)(Tommy)[cr Cobra][b][a]",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=sega-32x&rom_url=%2Froms%2FDizzy+Wizard+%281987%29%28Tommy%29%5Bcr+Cobra%5D%5Bb%5D%5Ba%5D.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/dizzy-wizard-1987-tommy-cr-cobra-b-a-thumb.jpg&rom_slug=dizzy-wizard-1987-tommy-cr-cobra-b-a\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "House of the Dead House of the Dead",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fhotd.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/house-of-the-dead-thumb-MAME.jpg&rom_slug=house-of-the-dead\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Legend of Zelda, The Majora's Mask (Europe) Legend of Zelda, The Majora's Mask (Europe)",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Majora%27s+Mask+%28Europe%29+%28En%2CFr%2CDe%2CEs%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-majora-s-mask-europe-thumb.jpg&rom_slug=legend-of-zelda-the-majoras-mask-europe\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mario Kart 64 Mario Kart 64",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Kart+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-64-thumb.jpg&rom_slug=mario-kart-64\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mario Kart DS (EU) Mario Kart DS (EU)",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0201+-+Mario+Kart+DS+%28E%29%28Spliff%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-ds-eu-nds.jpg&rom_slug=mario-kart-ds-eu\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mario Party 2 Mario Party 2",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Party+2+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-party-2-thumb.jpg&rom_slug=mario-party-2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Mario Party Mario Party",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Party+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-party-n64-thumb.jpg&rom_slug=mario-party\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Marvel VS Capcom 2 Marvel VS Capcom 2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fmvsc2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mame-marvel-vs-capcom-2-thumb.jpg&rom_slug=marvel-vs-capcom-2-new-age-of-heroes\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Metroid Metroid",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://www.webmulator.com/games/gameboy-advance/metroid-fusion-flashadvance\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Need for Speed: Most Wanted Need for Speed: Most Wanted",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0175+-+Need+for+Speed+-+Most+Wanted+%28U%29%28Mode+7%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/nds-need-for-speed-most-wanted-thumb.jpg&rom_slug=need-for-speed-most-wanted\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "New Super Mario Bros. New Super Mario Bros.",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0434+-+New+Super+Mario+Bros.+%28U%29%28Psyfer%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/new-super-mario-bros-nintendo-ds-thumb.jpg&rom_slug=new-super-mario-bros\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Paper Mario Paper Mario",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FPaper+Mario+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/paper-mario-thumb.jpg&rom_slug=paper-mario\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pokemon Black Version 2 Pokemon Black Version 2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F6149+-+Pokemon+Black+Version+2+%28DSi+Enhanced%29%28U%29%28frieNDS%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-black-version-2-thumb.jpg&rom_slug=pokemon-black-version-2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pokemon Black Version Pokemon Black Version",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F5585+-+Pokemon+-+Black+Version+%28DSi+Enhanced%29%28USA%29+%28E%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-black-version-thumb.jpg&rom_slug=pokemon-black-version\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pokemon HeartGold Pokemon HeartGold",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4787+-+Pokemon+-+HeartGold+Version+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-heart-gold-version-thumb.jpg&rom_slug=pokemon-heartgold\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pokemon Platinum Pokemon Platinum",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F3541+-+Pokemon+Platinum+Version+%28US%29%28XenoPhobia%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-platinum-version-thumb.jpg&rom_slug=pokemon-platinum\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pokemon Renegade Platinum Pokemon Renegade Platinum",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2Fv1.3.0_RenegadePlatinum.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-renegade-platinum-nds-thumb.jpg&rom_slug=pokemon-renegade-platinum\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pokemon SoulSilver Version Pokemon SoulSilver Version",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4788+-+Pokemon+-+SoulSilver+Version+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/nintendo-ds-pokemon-soulsilver-thumb.jpg&rom_slug=pokemon-soulsilver-version\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pokemon White Version Pokemon White Version",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F5584+-+Pokemon+-+White+Version+%28DSi+Enhanced%29%28USA%29+%28E%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-white-version-thumb.jpg&rom_slug=pokemon-white-version\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Pokémon Infinite Fusion Pokémon Infinite Fusion",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=gameboy-advance&rom_url=%2Froms%2FInfiniteFusion.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-infinite-fusion-thumb-gba.jpg&rom_slug=pok-mon-infinite-fusion\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Project Intercalaris Disk1 Project Intercalaris Disk1",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FProject+Intercalaris_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/project-intercalaris-disk1-thumb.jpg&rom_slug=project-intercalaris-disk1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Resident Evil 2 Resident Evil 2",
+    "category": "Horror",
+    "icon": "👻",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FResident+Evil+2+%28USA%29+%28Rev+A%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/resident-evil-2-thumb.jpg&rom_slug=resident-evil-2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Rurou ni Kenshin Meiji Kenkaku Romantan Ishin Gekitou Hen (Japan) Rurou ni Kenshin Meiji Kenkaku Romantan Ishin Gekitou Hen (Japan)",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=playstation-1&rom_url=%2Froms%2FRurou%2520ni%2520Kenshin%2520-%2520Meiji%2520Kenkaku%2520Romantan%2520-%2520Ishin%2520Gekitou%2520Hen%2520%2528Japan%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/Rurou-ni-Kenshin-Meiji-Kenkaku-Romantan-Ishin-Gekitou-Hen-Japan-thumb.jpg&rom_slug=rurou-ni-kenshin-meiji-kenkaku-romantan-ishin-gekitou-hen-japan\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Sen Disk3 Sen Disk3",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSen_Disk3.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/sen-disk3-thumb.jpg&rom_slug=sen-disk3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Sonic R (U) Sonic R (U)",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=sega-saturn&rom_url=%2Froms%2FSonic%2520R%2520%2528U%2529%2528Saturn%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/sonic-r-sega-saturn-thumb.jpg&rom_slug=sonic-r-u\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Stellar 7 Disk1 Stellar 7 Disk1",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FStellar+7_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/stellar-7-disk1-thumb.jpg&rom_slug=stellar-7-disk1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Super Mario 64 Super Mario 64",
+    "category": "Platformer",
+    "icon": "🏃",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Mario+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-64-thumb.jpg&rom_slug=super-mario-64\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Super Smash Bros. Super Smash Bros.",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Smash+Bros.+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/Super-Smash-Bros-64-thumb.jpg&rom_slug=super-smash-bros\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Svetak Bob Disk1 Svetak Bob Disk1",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSvetak+Bob_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/svetak-bob-disk1-thumb.jpg&rom_slug=svetak-bob-disk1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Svetak Bob Disk2 Svetak Bob Disk2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSvetak+Bob_Disk2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/svetak-bob-disk2-thumb.jpg&rom_slug=svetak-bob-disk2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tajemnica Bursztynowej Komnaty Disk1 Tajemnica Bursztynowej Komnaty Disk1",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FTajemnica+Bursztynowej+Komnaty_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tajemnica-bursztynowej-komnaty-disk1-thumb.jpg&rom_slug=tajemnica-bursztynowej-komnaty-disk1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tekken 4 (TEF2 Ver. A) Tekken 4 (TEF2 Ver. A)",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Ftekken4a.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tekken-4-TEF2-Ver-A-thumb.jpg&rom_slug=tekken-4-tef2-ver-a\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time The Legend of Zelda: Ocarina of Time",
+    "category": "Racing",
+    "icon": "🏎️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Ocarina+of+Time+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-ocarina-of-time-thumb.jpg&rom_slug=the-legend-of-zelda-ocarina-of-time\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Tower Of Souls (AGA) Disk1 Tower Of Souls (AGA) Disk1",
+    "category": "Strategy",
+    "icon": "♟️",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FTower+of+Souls+%28AGA%29_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tower-of-souls-aga-disk1-thumb.jpg&rom_slug=tower-of-souls-aga-disk1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Virtua Cop 2 Virtua Cop 2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fvcop2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/virtua-cop-2-thumb-MAME.jpg&rom_slug=virtua-cop-2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "WCW NWO Revenge WCW NWO Revenge",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FWCW-nWo+Revenge+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wcw-nwo-revenge-thumb.jpg&rom_slug=wcw-nwo-revenge\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Wolfen Die Bestie Ist Unter Uns Disk1 Wolfen Die Bestie Ist Unter Uns Disk1",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk1-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk1\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Wolfen Die Bestie Ist Unter Uns Disk2 Wolfen Die Bestie Ist Unter Uns Disk2",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk2-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk2\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Wolfen Die Bestie Ist Unter Uns Disk3 Wolfen Die Bestie Ist Unter Uns Disk3",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk3.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk3-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk3\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "WWE SmackDown vs. Raw 2010 WWE SmackDown vs. Raw 2010",
+    "category": "Other",
+    "icon": "🎮",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4726+-+WWE+SmackDown+vs+Raw+2010+featuring+ECW+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/www-smackdown-vs-raw-featuring-ecw-thumb.jpg&rom_slug=wwe-smackdown-vs-raw-2010\" allowfullscreen></iframe>"
   },
   {
     "title": "007 GoldenEye Full Screen Emulation",
@@ -3468,13 +3283,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F1420+-+Digimon+World+-+Dusk+%28U%29%28XenoPhobia%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/digimon-world-dusk-ds-thumb.jpg&rom_slug=digimon-world-dusk\" allowfullscreen></iframe>"
   },
   {
-    "title": "Disney's Donald Duck Goin' Quackers Disney's Donald Duck Goin' Quackers",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2Fdisneysdonaldduckgoinquackers.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/disney's-donald-duck-goin'-quackers-thumb.jpg&rom_slug=disneys-donald-duck-goin-quackers\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Disney's Donald Duck Goin' Quackers Full Screen Emulation",
     "category": "Other",
     "icon": "🎮",
@@ -3487,13 +3295,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2Fdisneystarzan.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/disneys-tarzan-n64.jpg&rom_slug=disneys-tarzan\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Dizzy Wizard (1987)(Tommy)[cr Cobra][b][a] Dizzy Wizard (1987)(Tommy)[cr Cobra][b][a]",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=sega-32x&rom_url=%2Froms%2FDizzy+Wizard+%281987%29%28Tommy%29%5Bcr+Cobra%5D%5Bb%5D%5Ba%5D.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/dizzy-wizard-1987-tommy-cr-cobra-b-a-thumb.jpg&rom_slug=dizzy-wizard-1987-tommy-cr-cobra-b-a\" allowfullscreen></iframe>"
   },
   {
     "title": "Dizzy Wizard (1987)(Tommy)[cr Cobra][b][a] Full Screen Emulation",
@@ -3894,7 +3695,6 @@
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F5367%2520-%2520Golden%2520Sun%2520-%2520Dark%2520Dawn%2520%2528U%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/golden-sun-dark-dawn.jpg&rom_slug=golden-sun-dark-dawn\" allowfullscreen></iframe>"
   },
-
   {
     "title": "Golf Golf",
     "category": "Sports",
@@ -4111,13 +3911,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=mame&rom_url=%2Froms%2Fhotd.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/house-of-the-dead-thumb-MAME.jpg&rom_slug=house-of-the-dead\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "House of the Dead House of the Dead",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fhotd.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/house-of-the-dead-thumb-MAME.jpg&rom_slug=house-of-the-dead\" allowfullscreen></iframe>"
   },
   {
     "title": "Hudson's Adventure Island 2 Hudson's Adventure Island 2",
@@ -4337,13 +4130,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Majora%27s+Mask+%28Europe%29+%28En%2CFr%2CDe%2CEs%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-majora-s-mask-europe-thumb.jpg&rom_slug=legend-of-zelda-the-majoras-mask-europe\" allowfullscreen></iframe>"
   },
   {
-    "title": "Legend of Zelda, The Majora's Mask (Europe) Legend of Zelda, The Majora's Mask (Europe)",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Majora%27s+Mask+%28Europe%29+%28En%2CFr%2CDe%2CEs%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-majora-s-mask-europe-thumb.jpg&rom_slug=legend-of-zelda-the-majoras-mask-europe\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Legend of Zelda, The Majora's Mask Legend of Zelda, The Majora's Mask",
     "category": "Other",
     "icon": "🎮",
@@ -4498,13 +4284,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Kart+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-64-thumb.jpg&rom_slug=mario-kart-64\" allowfullscreen></iframe>"
   },
   {
-    "title": "Mario Kart 64 Mario Kart 64",
-    "category": "Racing",
-    "icon": "🏎️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Kart+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-64-thumb.jpg&rom_slug=mario-kart-64\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Mario Kart Arcade GP Mario Kart Arcade GP",
     "category": "Racing",
     "icon": "🏎️",
@@ -4517,13 +4296,6 @@
     "icon": "🏎️",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F0201+-+Mario+Kart+DS+%28E%29%28Spliff%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-ds-eu-nds.jpg&rom_slug=mario-kart-ds-eu\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Mario Kart DS (EU) Mario Kart DS (EU)",
-    "category": "Racing",
-    "icon": "🏎️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0201+-+Mario+Kart+DS+%28E%29%28Spliff%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-ds-eu-nds.jpg&rom_slug=mario-kart-ds-eu\" allowfullscreen></iframe>"
   },
   {
     "title": "Mario Kart Mario Kart",
@@ -4540,13 +4312,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Party+2+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-party-2-thumb.jpg&rom_slug=mario-party-2\" allowfullscreen></iframe>"
   },
   {
-    "title": "Mario Party 2 Mario Party 2",
-    "category": "Platformer",
-    "icon": "🏃",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Party+2+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-party-2-thumb.jpg&rom_slug=mario-party-2\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Mario Party 3 Mario Party 3",
     "category": "Platformer",
     "icon": "🏃",
@@ -4559,13 +4324,6 @@
     "icon": "🏃",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Party+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-party-n64-thumb.jpg&rom_slug=mario-party\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Mario Party Mario Party",
-    "category": "Platformer",
-    "icon": "🏃",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Party+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-party-n64-thumb.jpg&rom_slug=mario-party\" allowfullscreen></iframe>"
   },
   {
     "title": "Mario Tennis GB (J) Mario Tennis GB (J)",
@@ -4608,13 +4366,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=mame&rom_url=%2Froms%2Fmvsc2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mame-marvel-vs-capcom-2-thumb.jpg&rom_slug=marvel-vs-capcom-2-new-age-of-heroes\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Marvel VS Capcom 2 Marvel VS Capcom 2",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fmvsc2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mame-marvel-vs-capcom-2-thumb.jpg&rom_slug=marvel-vs-capcom-2-new-age-of-heroes\" allowfullscreen></iframe>"
   },
   {
     "title": "Marvel VS Capcom Marvel VS Capcom",
@@ -5086,13 +4837,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F0175+-+Need+for+Speed+-+Most+Wanted+%28U%29%28Mode+7%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/nds-need-for-speed-most-wanted-thumb.jpg&rom_slug=need-for-speed-most-wanted\" allowfullscreen></iframe>"
   },
   {
-    "title": "Need for Speed: Most Wanted Need for Speed: Most Wanted",
-    "category": "Racing",
-    "icon": "🏎️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0175+-+Need+for+Speed+-+Most+Wanted+%28U%29%28Mode+7%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/nds-need-for-speed-most-wanted-thumb.jpg&rom_slug=need-for-speed-most-wanted\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Need for Speed: Underground 2 Need for Speed: Underground 2",
     "category": "Racing",
     "icon": "🏎️",
@@ -5119,13 +4863,6 @@
     "icon": "🏃",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F0434+-+New+Super+Mario+Bros.+%28U%29%28Psyfer%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/new-super-mario-bros-nintendo-ds-thumb.jpg&rom_slug=new-super-mario-bros\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "New Super Mario Bros. New Super Mario Bros.",
-    "category": "Platformer",
-    "icon": "🏃",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0434+-+New+Super+Mario+Bros.+%28U%29%28Psyfer%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/new-super-mario-bros-nintendo-ds-thumb.jpg&rom_slug=new-super-mario-bros\" allowfullscreen></iframe>"
   },
   {
     "title": "NHL 2000 NHL 2000",
@@ -5175,13 +4912,6 @@
     "icon": "🏃",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FPaper+Mario+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/paper-mario-thumb.jpg&rom_slug=paper-mario\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Paper Mario Paper Mario",
-    "category": "Platformer",
-    "icon": "🏃",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FPaper+Mario+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/paper-mario-thumb.jpg&rom_slug=paper-mario\" allowfullscreen></iframe>"
   },
   {
     "title": "Peppa Pig Fun And (E) Peppa Pig Fun And (E)",
@@ -5247,25 +4977,11 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F6149+-+Pokemon+Black+Version+2+%28DSi+Enhanced%29%28U%29%28frieNDS%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-black-version-2-thumb.jpg&rom_slug=pokemon-black-version-2\" allowfullscreen></iframe>"
   },
   {
-    "title": "Pokemon Black Version 2 Pokemon Black Version 2",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F6149+-+Pokemon+Black+Version+2+%28DSi+Enhanced%29%28U%29%28frieNDS%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-black-version-2-thumb.jpg&rom_slug=pokemon-black-version-2\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Pokemon Black Version Full Screen Emulation",
     "category": "Other",
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F5585+-+Pokemon+-+Black+Version+%28DSi+Enhanced%29%28USA%29+%28E%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-black-version-thumb.jpg&rom_slug=pokemon-black-version\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Pokemon Black Version Pokemon Black Version",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F5585+-+Pokemon+-+Black+Version+%28DSi+Enhanced%29%28USA%29+%28E%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-black-version-thumb.jpg&rom_slug=pokemon-black-version\" allowfullscreen></iframe>"
   },
   {
     "title": "Pokemon Blue Version Pokemon Blue Version",
@@ -5352,13 +5068,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F4787+-+Pokemon+-+HeartGold+Version+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-heart-gold-version-thumb.jpg&rom_slug=pokemon-heartgold\" allowfullscreen></iframe>"
   },
   {
-    "title": "Pokemon HeartGold Pokemon HeartGold",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4787+-+Pokemon+-+HeartGold+Version+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-heart-gold-version-thumb.jpg&rom_slug=pokemon-heartgold\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Pokemon HeartGold Version (v10) (EU) Pokemon HeartGold Version (v10) (EU)",
     "category": "Other",
     "icon": "🎮",
@@ -5415,13 +5124,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F3541+-+Pokemon+Platinum+Version+%28US%29%28XenoPhobia%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-platinum-version-thumb.jpg&rom_slug=pokemon-platinum\" allowfullscreen></iframe>"
   },
   {
-    "title": "Pokemon Platinum Pokemon Platinum",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F3541+-+Pokemon+Platinum+Version+%28US%29%28XenoPhobia%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-platinum-version-thumb.jpg&rom_slug=pokemon-platinum\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Pokemon Prism 2012 (Beta) (Gold Hack) Pokemon Prism 2012 (Beta) (Gold Hack)",
     "category": "Other",
     "icon": "🎮",
@@ -5462,13 +5164,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2Fv1.3.0_RenegadePlatinum.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-renegade-platinum-nds-thumb.jpg&rom_slug=pokemon-renegade-platinum\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Pokemon Renegade Platinum Pokemon Renegade Platinum",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2Fv1.3.0_RenegadePlatinum.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-renegade-platinum-nds-thumb.jpg&rom_slug=pokemon-renegade-platinum\" allowfullscreen></iframe>"
   },
   {
     "title": "Pokemon Sacred Gold And Storm Silver Pokemon Sacred Gold And Storm Silver",
@@ -5518,13 +5213,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F4788+-+Pokemon+-+SoulSilver+Version+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/nintendo-ds-pokemon-soulsilver-thumb.jpg&rom_slug=pokemon-soulsilver-version\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Pokemon SoulSilver Version Pokemon SoulSilver Version",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4788+-+Pokemon+-+SoulSilver+Version+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/nintendo-ds-pokemon-soulsilver-thumb.jpg&rom_slug=pokemon-soulsilver-version\" allowfullscreen></iframe>"
   },
   {
     "title": "Pokemon Stadium 2 Pokemon Stadium 2",
@@ -5611,13 +5299,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F5584+-+Pokemon+-+White+Version+%28DSi+Enhanced%29%28USA%29+%28E%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-white-version-thumb.jpg&rom_slug=pokemon-white-version\" allowfullscreen></iframe>"
   },
   {
-    "title": "Pokemon White Version Pokemon White Version",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F5584+-+Pokemon+-+White+Version+%28DSi+Enhanced%29%28USA%29+%28E%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-white-version-thumb.jpg&rom_slug=pokemon-white-version\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Pokemon Xenoverse Pokemon Xenoverse",
     "category": "Other",
     "icon": "🎮",
@@ -5651,13 +5332,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=gameboy-advance&rom_url=%2Froms%2FInfiniteFusion.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-infinite-fusion-thumb-gba.jpg&rom_slug=pok-mon-infinite-fusion\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Pokémon Infinite Fusion Pokémon Infinite Fusion",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=gameboy-advance&rom_url=%2Froms%2FInfiniteFusion.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/pokemon-infinite-fusion-thumb-gba.jpg&rom_slug=pok-mon-infinite-fusion\" allowfullscreen></iframe>"
   },
   {
     "title": "Pokémon Ruby Pokémon Ruby",
@@ -5707,13 +5381,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=gameboy-color&rom_url=%2Froms%2FPower+Rangers+-+Time+Force+%28U%29+%5BC%5D%5B%21%5D.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/power-rangers-time-force-gbc.jpg&rom_slug=power-rangers-time-force\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Project Intercalaris Disk1 Project Intercalaris Disk1",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FProject+Intercalaris_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/project-intercalaris-disk1-thumb.jpg&rom_slug=project-intercalaris-disk1\" allowfullscreen></iframe>"
   },
   {
     "title": "Punch Out!! Punch Out!!",
@@ -5798,13 +5465,6 @@
     "icon": "👻",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FResident+Evil+2+%28USA%29+%28Rev+A%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/resident-evil-2-thumb.jpg&rom_slug=resident-evil-2\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Resident Evil 2 Resident Evil 2",
-    "category": "Horror",
-    "icon": "👻",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FResident+Evil+2+%28USA%29+%28Rev+A%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/resident-evil-2-thumb.jpg&rom_slug=resident-evil-2\" allowfullscreen></iframe>"
   },
   {
     "title": "Resident Evil 2(Disc 1)(Leon)[SLES 00972] Resident Evil 2(Disc 1)(Leon)[SLES 00972]",
@@ -5898,13 +5558,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=playstation-1&rom_url=%2Froms%2FRurou%2520ni%2520Kenshin%2520-%2520Meiji%2520Kenkaku%2520Romantan%2520-%2520Ishin%2520Gekitou%2520Hen%2520%2528Japan%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/Rurou-ni-Kenshin-Meiji-Kenkaku-Romantan-Ishin-Gekitou-Hen-Japan-thumb.jpg&rom_slug=rurou-ni-kenshin-meiji-kenkaku-romantan-ishin-gekitou-hen-japan\" allowfullscreen></iframe>"
   },
   {
-    "title": "Rurou ni Kenshin Meiji Kenkaku Romantan Ishin Gekitou Hen (Japan) Rurou ni Kenshin Meiji Kenkaku Romantan Ishin Gekitou Hen (Japan)",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=playstation-1&rom_url=%2Froms%2FRurou%2520ni%2520Kenshin%2520-%2520Meiji%2520Kenkaku%2520Romantan%2520-%2520Ishin%2520Gekitou%2520Hen%2520%2528Japan%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/Rurou-ni-Kenshin-Meiji-Kenkaku-Romantan-Ishin-Gekitou-Hen-Japan-thumb.jpg&rom_slug=rurou-ni-kenshin-meiji-kenkaku-romantan-ishin-gekitou-hen-japan\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Saturn Bomberman (E) Saturn Bomberman (E)",
     "category": "Other",
     "icon": "🎮",
@@ -5938,13 +5591,6 @@
     "icon": "⚽",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F2152+-+SEGA+Superstars+Tennis+%28E%29%28EXiMiUS%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/sega-superstars-tennis-thumb-NDS-europe.jpg&rom_slug=sega-superstars-tennis\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Sen Disk3 Sen Disk3",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSen_Disk3.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/sen-disk3-thumb.jpg&rom_slug=sen-disk3\" allowfullscreen></iframe>"
   },
   {
     "title": "Sexy HK Girls 1 (PD) Sexy HK Girls 1 (PD)",
@@ -6120,13 +5766,6 @@
     "icon": "🏃",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=sega-saturn&rom_url=%2Froms%2FSonic%2520R%2520%2528U%2529%2528Saturn%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/sonic-r-sega-saturn-thumb.jpg&rom_slug=sonic-r-u\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Sonic R (U) Sonic R (U)",
-    "category": "Platformer",
-    "icon": "🏃",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=sega-saturn&rom_url=%2Froms%2FSonic%2520R%2520%2528U%2529%2528Saturn%2529.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/sonic-r-sega-saturn-thumb.jpg&rom_slug=sonic-r-u\" allowfullscreen></iframe>"
   },
   {
     "title": "Sonic Rush Sonic Rush",
@@ -6311,13 +5950,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FStarCraft+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/star-craft64-thumb.jpg&rom_slug=starcraft-64\" allowfullscreen></iframe>"
   },
   {
-    "title": "Stellar 7 Disk1 Stellar 7 Disk1",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FStellar+7_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/stellar-7-disk1-thumb.jpg&rom_slug=stellar-7-disk1\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Street Fighter II Next Generation (Hack) Street Fighter II Next Generation (Hack)",
     "category": "Action",
     "icon": "🎮",
@@ -6414,13 +6046,6 @@
     "icon": "🏃",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Mario+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-64-thumb.jpg&rom_slug=super-mario-64\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Super Mario 64 Super Mario 64",
-    "category": "Platformer",
-    "icon": "🏃",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Mario+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-64-thumb.jpg&rom_slug=super-mario-64\" allowfullscreen></iframe>"
   },
   {
     "title": "Super Mario All Stars + Super Mario World Super Mario All Stars + Super Mario World",
@@ -6535,39 +6160,11 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Smash+Bros.+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/Super-Smash-Bros-64-thumb.jpg&rom_slug=super-smash-bros\" allowfullscreen></iframe>"
   },
   {
-    "title": "Super Smash Bros. Super Smash Bros.",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Smash+Bros.+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/Super-Smash-Bros-64-thumb.jpg&rom_slug=super-smash-bros\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Svetak Bob Disk1 Svetak Bob Disk1",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSvetak+Bob_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/svetak-bob-disk1-thumb.jpg&rom_slug=svetak-bob-disk1\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Svetak Bob Disk2 Svetak Bob Disk2",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSvetak+Bob_Disk2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/svetak-bob-disk2-thumb.jpg&rom_slug=svetak-bob-disk2\" allowfullscreen></iframe>"
-  },
-  {
     "title": "SWIV SWIV",
     "category": "Other",
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FSWIV.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/swiv-amiga.jpg&rom_slug=swiv\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Tajemnica Bursztynowej Komnaty Disk1 Tajemnica Bursztynowej Komnaty Disk1",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FTajemnica+Bursztynowej+Komnaty_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tajemnica-bursztynowej-komnaty-disk1-thumb.jpg&rom_slug=tajemnica-bursztynowej-komnaty-disk1\" allowfullscreen></iframe>"
   },
   {
     "title": "Tamagotchi Tamagotchi",
@@ -6624,13 +6221,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=mame&rom_url=%2Froms%2Ftekken4a.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tekken-4-TEF2-Ver-A-thumb.jpg&rom_slug=tekken-4-tef2-ver-a\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Tekken 4 (TEF2 Ver. A) Tekken 4 (TEF2 Ver. A)",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Ftekken4a.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tekken-4-TEF2-Ver-A-thumb.jpg&rom_slug=tekken-4-tef2-ver-a\" allowfullscreen></iframe>"
   },
   {
     "title": "Tekken 4 (TEF3 Ver. C) Tekken 4 (TEF3 Ver. C)",
@@ -6780,13 +6370,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Ocarina+of+Time+-+Master+Quest+%28USA%29+%28Debug+Edition%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-ocarina-of-time-master-quest-cover.jpg&rom_slug=the-legend-of-zelda-ocarina-of-time-master-quest\" allowfullscreen></iframe>"
   },
   {
-    "title": "The Legend of Zelda: Ocarina of Time The Legend of Zelda: Ocarina of Time",
-    "category": "Racing",
-    "icon": "🏎️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FLegend+of+Zelda%2C+The+-+Ocarina+of+Time+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/legend-of-zelda-the-ocarina-of-time-thumb.jpg&rom_slug=the-legend-of-zelda-ocarina-of-time\" allowfullscreen></iframe>"
-  },
-  {
     "title": "The Legend of Zelda: Phantom Hourglass The Legend of Zelda: Phantom Hourglass",
     "category": "Other",
     "icon": "🎮",
@@ -6920,13 +6503,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=playstation-1&rom_url=%2Froms%2FTony%2520Hawks%2520Pro%2520Skater%25203%2520%2528U%2529%2520%255BSLUS-01419%255D.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/tony-hawks-pro-skater-3-psx-thumb.jpg&rom_slug=tony-hawks-pro-skater-3-slus-01419\" allowfullscreen></iframe>"
   },
   {
-    "title": "Tower Of Souls (AGA) Disk1 Tower Of Souls (AGA) Disk1",
-    "category": "Strategy",
-    "icon": "♟️",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FTower+of+Souls+%28AGA%29_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/tower-of-souls-aga-disk1-thumb.jpg&rom_slug=tower-of-souls-aga-disk1\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Turrican Turrican",
     "category": "Other",
     "icon": "🎮",
@@ -6976,13 +6552,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=mame&rom_url=%2Froms%2Fvcop2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/virtua-cop-2-thumb-MAME.jpg&rom_slug=virtua-cop-2\" allowfullscreen></iframe>"
   },
   {
-    "title": "Virtua Cop 2 Virtua Cop 2",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=mame&rom_url=%2Froms%2Fvcop2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/virtua-cop-2-thumb-MAME.jpg&rom_slug=virtua-cop-2\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Virtua Striker 2 Ver. 2000 (Rev C) Virtua Striker 2 Ver. 2000 (Rev C)",
     "category": "Shooter",
     "icon": "🔫",
@@ -7009,13 +6578,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FWCW-nWo+Revenge+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wcw-nwo-revenge-thumb.jpg&rom_slug=wcw-nwo-revenge\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "WCW NWO Revenge WCW NWO Revenge",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-64&rom_url=%2Froms%2FWCW-nWo+Revenge+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wcw-nwo-revenge-thumb.jpg&rom_slug=wcw-nwo-revenge\" allowfullscreen></iframe>"
   },
   {
     "title": "Webmulator Emulator Load own ROM Dumps",
@@ -7053,27 +6615,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWings+of+Fury.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wings-of-fury-amiga.jpg&rom_slug=wings-of-fury\" allowfullscreen></iframe>"
   },
   {
-    "title": "Wolfen Die Bestie Ist Unter Uns Disk1 Wolfen Die Bestie Ist Unter Uns Disk1",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk1.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk1-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk1\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Wolfen Die Bestie Ist Unter Uns Disk2 Wolfen Die Bestie Ist Unter Uns Disk2",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk2.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk2-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk2\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Wolfen Die Bestie Ist Unter Uns Disk3 Wolfen Die Bestie Ist Unter Uns Disk3",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FWolfen+-+Die+Bestie+ist+Unter+Uns_Disk3.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/wolfen-die-bestie-ist-unter-uns-disk3-thumb.jpg&rom_slug=wolfen-die-bestie-ist-unter-uns-disk3\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Wolverine Adamantium Rage (JUE) Wolverine Adamantium Rage (JUE)",
     "category": "Other",
     "icon": "🎮",
@@ -7100,13 +6641,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-ds&rom_url=%2Froms%2F4726+-+WWE+SmackDown+vs+Raw+2010+featuring+ECW+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/www-smackdown-vs-raw-featuring-ecw-thumb.jpg&rom_slug=wwe-smackdown-vs-raw-2010\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "WWE SmackDown vs. Raw 2010 WWE SmackDown vs. Raw 2010",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F4726+-+WWE+SmackDown+vs+Raw+2010+featuring+ECW+%28U%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/www-smackdown-vs-raw-featuring-ecw-thumb.jpg&rom_slug=wwe-smackdown-vs-raw-2010\" allowfullscreen></iframe>"
   },
   {
     "title": "WWE SmackDown! Vs. Raw 2008 (EU) WWE SmackDown! Vs. Raw 2008 (EU)",
@@ -7213,5 +6747,4 @@
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=msx&rom_url=%2Froms%2FZanac+%28Japan%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/zanac-thumb.jpg&rom_slug=zanac\" allowfullscreen></iframe>"
   }
-
 ]
