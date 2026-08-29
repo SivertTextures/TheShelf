@@ -7200,18 +7200,11 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F0003+-+Yoshi+Touch+%26+Go+%28U%29%28Trashman%29.7z&thumb_url=https://www.webmulator.com/img/roms/thumbs/yoshi-touch-go-nds.jpg&rom_slug=yoshi-touch-go\" allowfullscreen></iframe>"
   },
   {
-    "title": "Yu Gi Oh! Forbidden Memories Yu Gi Oh! Forbidden Memories",
-    "category": "Other",
+    "title": "Young Sheldon",
+    "category": "Media",
     "icon": "🎮",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=playstation-1&rom_url=%2Froms%2FYu-Gi-Oh%2521%2520-%2520Forbidden%2520Memories%2520%255BSLUS_014.11%255D.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/yu-gi-oh!-forbidden-memories-psx.jpg&rom_slug=yu-gi-oh-forbidden-memories\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Zanac Zanac",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=msx&rom_url=%2Froms%2FZanac+%28Japan%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/zanac-thumb.jpg&rom_slug=zanac\" allowfullscreen></iframe>"
+    "embedCode": "<iframe src=\"https://player.videasy.to/tv/71728/1/1?nextEpisode=true&autoplayNextEpisode=true&episodeSelector=false&overlay=true&color=FF7575" allowfullscreen></iframe>"
   }
 
 ]
