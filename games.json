@@ -33878,5 +33878,12 @@
     "icon": "🕷️",
     "type": "embed",
     "embedCode": "<iframe src=\"https://cinesrc.st/embed/movie/969681?color=%23FF7575\" allowfullscreen></iframe>"
-  }
+  },
+  {
+    "title": "Spongebob",
+    "category": "Media",
+    "icon": "🧽",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://cinesrc.st/embed/tv/387?s=1&e=1&color=%23FF7575\" allowfullscreen></iframe>"
+  }  
 ]
