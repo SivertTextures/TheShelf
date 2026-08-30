@@ -20860,13 +20860,6 @@
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=nintendo-ds&rom_url=%2Froms%2F5827+-+Penguins+of+Madagascar+-+Dr.+Blowhole+Returns+-+Again%21%2C+The+%28DSi+Enhanced%29+%28U%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/penguins-of-madagascar-dr-blowhole-returns-again-the-ds-thumb.jpg&rom_slug=penguins-of-madagascar-dr-blowhole-returns-again-the\" allowfullscreen></iframe>"
   },
   {
-    "title": "Penthouse Hot Numbers Penthouse Hot Numbers",
-    "category": "Puzzle",
-    "icon": "🧩",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FPenthouse+Hot+Numbers.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/penthouse-hot-numbers-thumb.jpg&rom_slug=penthouse-hot-numbers\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Peppa Pig Fun And (E) Full Screen Emulation",
     "category": "Other",
     "icon": "🎮",
@@ -32620,13 +32613,6 @@
     "embedCode": "<iframe src=\"https://ragdollarchers2.io/horror-nun.embed\" allowfullscreen></iframe>"
   },
   {
-    "title": "Hot",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://ragdollarchers2.io/hot-games\" allowfullscreen></iframe>"
-  },
-  {
     "title": "Ice Baby Quest 2",
     "category": "Adventure",
     "icon": "🗺️",
@@ -33885,12 +33871,19 @@
     "icon": "🧽",
     "type": "embed",
     "embedCode": "<iframe src=\"https://cinesrc.st/embed/tv/387?s=1&e=1&color=%23FF7575\" allowfullscreen></iframe>"
-  },  
+  },
   {
-    "title": "Simpson",
+    "title": "Spongebob",
     "category": "Media",
-    "icon": "👦",
+    "icon": "🧽",
     "type": "embed",
-    "embedCode": "<iframe src=\"https://cinesrc.st/embed/tv/456?s=1&e=1&color=%23FF7575\" allowfullscreen></iframe>"
-  }
+    "embedCode": "<iframe src=\"https://cinesrc.st/embed/tv/60802?s=1&e=1&color=%23FF7575\" allowfullscreen></iframe>"
+  },
+  {
+    "title": "Binding Of Isaac",
+    "category": "Shooter",
+    "icon": "😭",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://6x-classroom.github.io/games/thebindingofisaac/index.html\" allowfullscreen></iframe>"
+  }  
 ]
