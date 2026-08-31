@@ -33885,5 +33885,13 @@
     "icon": "😭",
     "type": "embed",
     "embedCode": "<iframe src=\"https://6x-classroom.github.io/games/thebindingofisaac/index.html\" allowfullscreen></iframe>"
-  }  
+  }, 
+  {
+    "title": "A Minecraft Movie",
+    "category": "Media",
+    "icon": "🧊",
+    "type": "embed",
+    "embedCode": "<iframe src=\"https://cinesrc.st/embed/movie/950387?color=%23FF7575\" allowfullscreen></iframe>"
+  } 
+  
 ]
