@@ -1658,20 +1658,7 @@
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=msx&rom_url=%2Froms%2F1942+%28Japan%29+%28Alt+1%29.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/1942-alt-1-thumb.jpg&rom_slug=1942-alt-1\" allowfullscreen></iframe>"
   },
-  {
-    "title": "Adult Manga 1 (PD) Adult Manga 1 (PD)",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=super-nintendo&rom_url=%2Froms%2FAdult+Manga+1+%28PD%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/namco51-thumb.jpg&rom_slug=adult-manga-1-pd\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Adult Manga 2 (PD) Adult Manga 2 (PD)",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=1&console_slug=super-nintendo&rom_url=%2Froms%2FAdult+Manga+2+%28PD%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/namco51-thumb.jpg&rom_slug=adult-manga-2-pd\" allowfullscreen></iframe>"
-  },
+
   {
     "title": "Aero Fighters Special (Taiwan) Aero Fighters Special (Taiwan)",
     "category": "Action",
@@ -6298,20 +6285,6 @@
     "icon": "🎮",
     "type": "embed",
     "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=amiga&rom_url=%2Froms%2FAdrenalynn.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/adrenalynn-thumb.jpg&rom_slug=adrenalynn\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Adult Manga 1 (PD) Full Screen Emulation",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=super-nintendo&rom_url=%2Froms%2FAdult+Manga+1+%28PD%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/namco51-thumb.jpg&rom_slug=adult-manga-1-pd\" allowfullscreen></iframe>"
-  },
-  {
-    "title": "Adult Manga 2 (PD) Full Screen Emulation",
-    "category": "Other",
-    "icon": "🎮",
-    "type": "embed",
-    "embedCode": "<iframe src=\"https://downloads.webmulator.com/play.php?emulator=2&console_slug=super-nintendo&rom_url=%2Froms%2FAdult+Manga+2+%28PD%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/namco51-thumb.jpg&rom_slug=adult-manga-2-pd\" allowfullscreen></iframe>"
   },
   {
     "title": "Advance Wars Advance Wars",
@@ -33873,7 +33846,7 @@
     "embedCode": "<iframe src=\"https://cinesrc.st/embed/tv/387?s=1&e=1&color=%23FF7575\" allowfullscreen></iframe>"
   },
   {
-    "title": "Spongebob",
+    "title": "Last ship i think",
     "category": "Media",
     "icon": "🧽",
     "type": "embed",
